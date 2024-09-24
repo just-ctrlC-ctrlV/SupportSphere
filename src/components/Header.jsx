@@ -16,7 +16,7 @@ const Header = () => {
         className="flex justify-start items-center
       text-xl text-black space-x-1"
       >
-        <span class="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-500">CrowdLift</span>
+        <span class="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-500">SupportSphere</span>
         {/* <TbBusinessplan /> */}
       </Link>
 
