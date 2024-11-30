@@ -16,13 +16,10 @@ This demo uses:
 
 - Metamask
 - Hardhat
-- Infuria
 - ReactJs
 - Tailwind CSS
-- CometChat
 - Solidity
 - EthersJs
-- Faucet
 
 ## Running the demo
 
